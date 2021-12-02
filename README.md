@@ -10,9 +10,9 @@ Jagathi Medempudi		         tv1499 		jmedempudi@horizon.csueastbay.edu
 ```
 
 ## ABSTRACT
-```
+
 Road Traffic Sign Detection consists of two primary tasks, detection (finding the location and size of the object on the input image), and classification (classifying the detected objects into subclasses). Both tasks are usually done with a single detection/classification model such as YOLO and Tesseract where input images are labelled with the bounding boxes and respective classes. However, labelling and training such datasets requires a lot of time and effort. We will take Traffic sign image Dataset as a train and test Data for Input. 
-```
+
 ![image 1](readme-images/FlowChart.png) 
 
 ## Section 1 Execution Instructions: 
