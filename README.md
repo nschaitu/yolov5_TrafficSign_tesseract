@@ -52,7 +52,7 @@ We should download the source code from the GitHub repository (yolov5_Trafficsig
 
 
 Below is the screenshot (Fig 1) of GitHub repository, we need to download.
-![image 1](readme-images/1.png)
+![image 1](readme-images/1.jpeg)
  
 Fig 1
  
