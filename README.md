@@ -84,7 +84,7 @@ Step 2 : Download Dataset
 Step 3 : Train on Traffic Sign dataset
 detect.py runs YOLOv5 inference on a variety of sources, downloading models automatically from the latest YOLOv5 release, and saving results to runs/detect. Example inference sources are:
 
-# Train YOLOv5s on TrafficSign dataset for 300 epochs
+#Train YOLOv5s on TrafficSign dataset for 300 epochs
 ! python train.py --img 1280 --batch 16 --epochs 100 --data data/gtsdb.yaml --weights yolov5s.pt --cache --noautoanchor --name exp_signDetector_1280px_2 
 
 
