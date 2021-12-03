@@ -102,7 +102,7 @@ Step 4 : After training, we are logging the results in to the TensorBoard
 
 Step 5 : Below command is for Detection of Traffic Sign without integration of Tesseract
 
-![image 1](readme-images/7.jpeg) 
+![image 1](readme-images/Picture4.png) 
 
 
 
@@ -111,7 +111,7 @@ The above is the command which takes the parameter weights, and those weights ar
 
 Step 6 : Below command is for Detection of Traffic Sign with integration of Tesseract
 
- ![image 1](readme-images/2.jpeg) 
+ ![image 1](readme-images/Picture5.jpeg) 
 
 
 Section 3 Testing
