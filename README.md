@@ -114,14 +114,20 @@ Step 6 : Below command is for Detection of Traffic Sign with integration of Tess
  ![image 1](readme-images/Picture5.png) 
 
 
-Section 3 Testing
+## Section 3 Testing
+
 Training Results: The below screenshot shows  metrics such as Precision, Recall, Accuracy, mAP, etc
  
+ ![image 1](readme-images/2.jpeg) 
+
+
 
 The below screenshot shows Time series values of training data
  
+ 
 
 section 3.1: Starting application
+
 The below is the input image which is being passed as input.
  
  ![image 1](readme-images/8.jpeg) 
