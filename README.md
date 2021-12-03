@@ -65,10 +65,13 @@ The figure 3 displays TFLiteObjectDetectionAPIModel.java file
 ![image 1](readme-images/6.jpeg) 
 
 ## Section 2
-
 Code Description
+
 Step 1: Setup
 Clone repo, install dependencies and check PyTorch and GPU.
+
+![image 1](readme-images/Picture1.png) 
+
  
 
 Step 2 : Download Dataset
