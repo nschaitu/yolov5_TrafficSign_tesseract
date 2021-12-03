@@ -124,7 +124,8 @@ Training Results: The below screenshot shows  metrics such as Precision, Recall,
 
 The below screenshot shows Time series values of training data
  
- 
+  ![image 1](readme-images/3.jpg) 
+
 
 section 3.1: Starting application
 
