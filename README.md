@@ -90,6 +90,9 @@ detect.py runs YOLOv5 inference on a variety of sources, downloading models auto
 
 Step 4 : After training, we are logging the results in to the TensorBoard
 
+![image 1](readme-images/Picture3.png) 
+
+
  
 
 
