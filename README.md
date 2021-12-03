@@ -111,7 +111,7 @@ The above is the command which takes the parameter weights, and those weights ar
 
 Step 6 : Below command is for Detection of Traffic Sign with integration of Tesseract
 
- ![image 1](readme-images/Picture5.jpeg) 
+ ![image 1](readme-images/Picture5.png) 
 
 
 Section 3 Testing
