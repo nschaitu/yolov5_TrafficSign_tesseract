@@ -58,7 +58,8 @@ Fig 1
 ![image 1](readme-images/2.jpeg) 
 Fig 2
 Fig2 image shows ImageUtils.java class, it prepares images for Classification and it draws the image using the Canvas.
- 
+ ![image 1](readme-images/4.jpeg) 
+
 Fig 3
 The figure 3 displays TFLiteObjectDetectionAPIModel.java file 
 Section 2 Code Description
