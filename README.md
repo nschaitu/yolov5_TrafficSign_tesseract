@@ -75,7 +75,7 @@ Clone repo, install dependencies and check PyTorch and GPU.
  
 
 Step 2 : Download Dataset
-![image 1](readme-images/Picture2.jng) 
+![image 1](readme-images/Picture2.png) 
 
  
 
