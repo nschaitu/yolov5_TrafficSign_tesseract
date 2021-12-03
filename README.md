@@ -6,7 +6,7 @@
 Sri Sowmya Chikkam     oq4349 		schikkam@horizon.csueastbay.edu /
 Sai Chaitanya Nadendla zy6108 		snadendla3@horizon.csueastbay.edu
 Shiva Kumar Nadiminti  fo6369 		snadiminti@horizon.csueastbay.edu
-Jagathi Medempudi		   tv1499 		jmedempudi@horizon.csueastbay.edu
+Jagathi Medempudi		 tv1499 		jmedempudi@horizon.csueastbay.edu
 ```
 
 ## ABSTRACT
