@@ -102,13 +102,17 @@ Step 4 : After training, we are logging the results in to the TensorBoard
 
 Step 5 : Below command is for Detection of Traffic Sign without integration of Tesseract
 
+![image 1](readme-images/7.jpeg) 
+
+
 
  
 The above is the command which takes the parameter weights, and those weights are training weights and image size is 1280, and we have specified the source location of the test image.
 
 Step 6 : Below command is for Detection of Traffic Sign with integration of Tesseract
 
- 
+ ![image 1](readme-images/2.jpeg) 
+
 
 Section 3 Testing
 Training Results: The below screenshot shows  metrics such as Precision, Recall, Accuracy, mAP, etc
