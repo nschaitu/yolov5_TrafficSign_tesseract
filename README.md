@@ -75,6 +75,8 @@ Clone repo, install dependencies and check PyTorch and GPU.
  
 
 Step 2 : Download Dataset
+![image 1](readme-images/Picture2.jng) 
+
  
 
 Step 3 : Train on Traffic Sign dataset
