@@ -108,9 +108,10 @@ The below screenshot shows Time series values of training data
 section 3.1: Starting application
 The below is the input image which is being passed as input.
  
-                                                     Fig 3.1a
+ ![image 1](readme-images/8.jpeg) 
+
+                                                     
 The below image shows detecting the STOP traffic sign with the accuracy of 87.89%
 
- 
-                                                          Fig 3.1b
-![image](https://user-images.githubusercontent.com/95442036/144502523-a3141488-e32b-4413-8d96-7be98794e553.png)
+ ![image 1](readme-images/7.jpeg) 
+
