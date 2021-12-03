@@ -62,6 +62,8 @@ Fig2 image shows ImageUtils.java class, it prepares images for Classification an
 
 Fig 3
 The figure 3 displays TFLiteObjectDetectionAPIModel.java file 
+![image 1](readme-images/6.jpeg) 
+
 Section 2 Code Description
 Step 1: Setup
 Clone repo, install dependencies and check PyTorch and GPU.
